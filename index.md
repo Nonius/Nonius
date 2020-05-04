@@ -1,5 +1,3 @@
-# Nonius
-
 ## Professional interest
 
 ## Work experience
