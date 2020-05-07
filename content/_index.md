@@ -1,3 +1,7 @@
++++
+template = "index.html"
++++
+# Dávid Kosztka
 ## Professional interest
 
 ## Work experience
