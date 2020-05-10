@@ -23,15 +23,15 @@ title = "Resume"
 * Supporting services 24/7
 
 ## Work experience
-### Software engineer at bol.com (2014 April 1 - present)
+### 2014 April - present: Software engineer at bol.com
 Implementing various backend services in Java and Kotlin using Postgresql and deploying to Kubernetes in Google cloud platform.
 
 One day a week working on [unFTP](https://github.com/bolcom/unFTP/) and [libunftp](https://github.com/bolcom/libunftp/) these are Open source software written in Rust.
-### Software engineer at Ericsson (2010 September 1 - 2014 March 31)
+### 2010 September - 2014 March: Software engineer at Ericsson
 Worked on turning a research project (Java frontend, c++ and Python backends) into a product.
 
 Worked on the Mobile media Gateway. This is a soft realtime system with 99.999% uptime and around 7000 installed node written in c++.
-### Physicist at Semilab (2009 January 1 - 2010 August 31)
+### 2009 January - 2010 August: Physicist at Semilab
 Worked on leakage current measurements by junction photovoltage technique.
 * [Publications](https://www.researchgate.net/scientific-contributions/74593950_D_Kosztka)
 
