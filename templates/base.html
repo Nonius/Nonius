@@ -4,14 +4,11 @@
 <head>
     <meta charset="utf-8">
     <title>Nonius</title>
+    <link rel="stylesheet" href="{{ get_url(path="style.css") }}">
 </head>
 
-<body>
-    <section class="section">
-        <div class="container">
-            {% block content %} {% endblock %}
-        </div>
-    </section>
-</body>
+{% block content %} {% endblock %}
+
+<footer></footer>
 
 </html>
