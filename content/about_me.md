@@ -9,3 +9,5 @@ I have spent some time to learn to play the guitar and the bass and now I'm on a
 Basketball, running, bouldering, clubbells, horse back riding
 ## I like animals
 I'm a crazy cat lady
+## Steno
+I want to switch to a chorded keyboard, but I'm only at the speed of 13-15WPM now, so I'm just practicing for now. I plan to fully switch if I'm around 30WPM.
