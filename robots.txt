@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://nonius.github.io/sitemap.xml
